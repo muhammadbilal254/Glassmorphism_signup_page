@@ -1,7 +1,7 @@
 # Glassmorphism_signup_page
  
 ## Project Link
-<a href="https://muhammadbilal254.github.io/Glassmorphism_signup_page/">Go to Project</a>
+<a href="https://muhammadbilal254.github.io/Glassmorphism_signup_page/index.html">Go to Project</a>
 
 
 ## Image
